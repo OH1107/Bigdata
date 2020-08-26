@@ -13,4 +13,6 @@
     - ML의 기본적인 개념 학습
     - `Decision tree`, 선형회귀분석 기법 등 학습
     - `sklearn` 함수를 활용해 `iris` dataset의 ML 실습
+    - `titanic`, `House_price` dataset을 이용한 LightGBM 실습
+    - K_fold를 활용한 RMSE, MSE 값 조정 실습
   - DeepLearning
