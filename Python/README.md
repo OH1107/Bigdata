@@ -14,7 +14,10 @@
   + `DataFrame`관련 명령어 실습
 - 다양한 모듈 호출 실습
 ### 4일차
-- `10min pandas`를 통해 `pandas`실습
+- `10min pandas`를 통한 `pandas`실습
   + [10min_pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - 연습문제 실습
 ### 5일차
+- 연습문제를 통한 `pandas` 복습
+- `Quicktart tutorial`을 통한 `numpy` 학습
+  + [Quicktart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
