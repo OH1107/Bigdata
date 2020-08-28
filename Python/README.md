@@ -23,3 +23,19 @@
 - 연습문제를 통한 `pandas` 복습
 - `Quicktart tutorial`을 통한 `numpy` 학습
   + [Quicktart tutorial](https://numpy.org/doc/stable/user/quickstart.html)
+### 6일차
+- `matplotlib` 학습
+- `seaborn` 학습
+### 7일차
+- `titanic` 데이터 셋을 활용한 데이터 전처리, 시각화 연습
+### 8일차
+- 웹크롤링 학습
+  - `Beautiful Soup` 학습
+  - `selenium` 학습
+  - `requesits` 학습
+### 9일차
+- 쇼핑몰 정보 크롤링하기
+  - `BeautifulSoup`, `requests` 복습
+- 기상청 Data 크롤링하기
+  - `pandas`, `requests` 복습
+- 
