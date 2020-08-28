@@ -38,4 +38,16 @@
   - `BeautifulSoup`, `requests` 복습
 - 기상청 Data 크롤링하기
   - `pandas`, `requests` 복습
-- 
+- 네이버 및 실험 페이지를 `selenium`을 통해 제어
+- 텍스트 마이닝
+  - `matplotlib`과 `WordCloud`를 통해 실습
+- 문자열 복습
+### 10일차
+- 공공데이터포털 API 수집하기
+- 국민청원 데이터를 `pandas`를 통해 `EDA`실습
+### 11일차
+- 정규표현식
+- 서울지역범죄데이터
+- `XML`파일과 `Json`파일 호출 및 변환
+- `Json` 데이터 처리
+- `requests` 모듈 복습
