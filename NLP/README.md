@@ -100,3 +100,6 @@ print(komoran_tokens)
     - 표현하고자 하는 단어만을 수치화
   - Distributed Representation
     - 주변단어를 함께 참고하여 수치화
+![word_representation](https://user-images.githubusercontent.com/67505208/91978937-efdaee80-ed5f-11ea-9659-c45a0691736b.PNG)
+#### OneHotEncoding 직접 구현 및 `sklearn` 라이브러리를 통해서 구현
+#### BoW 직접 구현
