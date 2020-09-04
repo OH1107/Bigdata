@@ -121,4 +121,20 @@ print(komoran_tokens)
   - TF : 단어빈도 ( 특정단어 등장빈도 / 문서내 전체단어 등장빈도 ), 한 문서 내에서 얼마나 많이 등장 했는가
   - IDF : 역문서빈도 ( log(총 문서 수 / 특정 단어가 등장한 문서 수), 단어가 얼마나 많은 문서에서 등장했는지를 나타내는 DF의 역수
   - TF_IDF : TF * IDF
-
+### 09.05
+#### TF_IDF `sklearn` 라이브러리와 `gensim` 라이브러리를 통해서 구현
+#### 감정분석
+- 문서, 단락, 문장 내에서 긍정,부정,중립 등을 감지하는 텍스트 분석방법
+- 문서 내 감정표현을 분석 - 특징을 정량화된 자료로 제시
+- 감정분석 방법
+  - Lexicon-based approach (사전기반 감정분석)
+  - Machine Learning Approach
+  - Deep Learning Approach
+  
+#### Machine Learning Approach 중 Naive Bayes Classifier 직접 구현 및 `sklearn` 라이브러리를 통해서 구현
+##### Baye's theorem
+- 두 확률변수의 사전확률과 사후확률 사이의 관계를 나타내는 정리
+- 이미지 삽입하기
+- 정리 다시하기
+#### Naive Bayes를 이용한 네이버 영화 댓글 감정분석 실습
+- 정리 다시하기
