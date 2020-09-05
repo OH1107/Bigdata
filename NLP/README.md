@@ -134,7 +134,8 @@ print(komoran_tokens)
 #### Machine Learning Approach 중 Naive Bayes Classifier 직접 구현 및 `sklearn` 라이브러리를 통해서 구현
 ##### Baye's theorem
 - 두 확률변수의 사전확률과 사후확률 사이의 관계를 나타내는 정리
-- 이미지 삽입하기
+![캡처](https://user-images.githubusercontent.com/67505208/92302072-0cffff00-efa4-11ea-8156-810f588adb36.PNG)
+
 - 정리 다시하기
 #### Naive Bayes를 이용한 네이버 영화 댓글 감정분석 실습
 - 정리 다시하기
