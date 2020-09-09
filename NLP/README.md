@@ -162,3 +162,10 @@ print(komoran_tokens)
   - 학습된 알고리즘에 Test 데이터 대입
   - 정확도 확인 (ACC : 81%)
 #### Deep Learning Approach 중 `tensorflow.keras - RNN`을 이용한 네이버 영화 댓글 감정분석
+## 09.09
+#### 토픽모델링
+- 정의
+- 종류
+#### 토픽모델링 LSA
+#### 토픽모델링 LDA 영어뉴스기사
+#### 토픽모델링 LDA 한글뉴스기사
