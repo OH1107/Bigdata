@@ -15,4 +15,7 @@
     - `sklearn` 함수를 활용해 `iris` dataset의 ML 실습
     - `titanic`, `House_price` dataset을 이용한 LightGBM 실습
     - K_fold를 활용한 RMSE, MSE 값 조정 실습
-  - DeepLearning
+  - NLP - 자연어 처리
+    - `jupyter notebook` 사용
+    - 형태소 분석기 설치를 통한 토큰화 실습
+    - 단어빈도집계, 감성분석, 토픽모델링, 키워드 추출 등을 위한 알고리즘 학습 및 실습
