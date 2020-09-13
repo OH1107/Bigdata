@@ -164,9 +164,45 @@ print(komoran_tokens)
 #### Deep Learning Approach 중 `tensorflow.keras - RNN`을 이용한 네이버 영화 댓글 감정분석
 ## 09.09
 #### 토픽모델링
-- 정의
+- 구조화되지 않은 방대한 문헌집단에서 주제를 찾아내기 위한 알고리즘
+- 맥락과 관련된 단서들을 이용하여 의미를 가진 단어들을 클러스터링하여 주제를 추론함
 - 종류
+  - LSA (Latent Semantic Analysis)
+  - pLSA (Probabilistic Latent Semantic Analysis)
 #### 토픽모델링 LSA
+- 잠재의미분석
+- 대량의 텍스트 문서에서 발생하는 단어들간의 연관관계를 분석함으로써 잠재적인 의미구조를 도출
+- __동시출현빈도__ 가 높은 단어들을 기준으로 유사한 문서를 추출
+- LSA의 행렬분해
+
+![image](https://user-images.githubusercontent.com/67505208/93017885-065a3300-f607-11ea-9f0c-2dbec6d1b734.png)
+
+- LSA 과정
+
+![image](https://user-images.githubusercontent.com/67505208/93017908-2a1d7900-f607-11ea-836c-f9a7fcba76c4.png)
+
+- 실습
+![image](https://user-images.githubusercontent.com/67505208/93017916-402b3980-f607-11ea-9c31-fefbe896d770.png)
+
+#### 토픽모델링 LDA
+- 잠재 디리클레 할당 : 주어진 문서에 대해 어떤 주제가 존재하는지에 대한 확률모형
+- '주제 내 단어분포'와 '문서내 주제 분포'를 추정하는 방법
+![image](https://user-images.githubusercontent.com/67505208/93018043-1a526480-f608-11ea-9543-f0d77fd56c70.png)
+- LDA 과정 개요
+  - 말뭉치로부터 토픽분포를 뽑는다.
+  - 토픽분포로부터 토픽을 뽑는다.
+  - 토픽에 해당하는 단어를 뽑는다.
+- LDA 수행과정
+  - 토픽 개수 k를 설정
+  - 모든 단어를 k개 토픽 하나에 임의 할당
+  - 결과가 수렴까지 재할당 반복
+    - p(t|d) : 문서 내 주제확률
+    - p(w|t) : 주제 내 단어확률
+    - p(t|d) * p(w|t) : 주제 z에 대해, 문서 d 내에서 단어 w가 존재할 확률
+#### LSA, LDA 모델 비교
+![image](https://user-images.githubusercontent.com/67505208/93018215-09562300-f609-11ea-83ec-eda7f5ca57c6.png)
+
+
 #### 토픽모델링 LDA 영어뉴스기사
 #### 토픽모델링 LDA 한글뉴스기사
 ## 09.10 ~ 09.11
