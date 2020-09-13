@@ -203,8 +203,17 @@ print(komoran_tokens)
 ![image](https://user-images.githubusercontent.com/67505208/93018215-09562300-f609-11ea-83ec-eda7f5ca57c6.png)
 
 
-#### 토픽모델링 LDA 영어뉴스기사
-#### 토픽모델링 LDA 한글뉴스기사
+#### 토픽모델링 LDA 영어뉴스기사, 한글뉴스기사 실습
+- LDA 시각화
+```python
+import pyLDAvis
+import pyLDAvis.sklearn
+
+pyLDAvis.enable_notebook()
+vis = pyLDAvis.sklearn.prepare(lda, tfidf, tfidf_vect, mds='tsne')
+pyLDAvis.display(vis)
+```
+
 ## 09.10 ~ 09.11
 #### 미니 프로젝트 진행
 - 주제 :
