@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/67505208/93056365-48d34c80-f6a7-11ea-9b44-75af3ee03a6a.png)
 
 ## 교육 내용
-- `Python`
+- __Python__
   + 기간 : 2020.07.27 ~ 2020.08.10
   + `jupyter notebook` 사용
   + `Python` 기초 문법 학습
@@ -13,7 +13,7 @@
   + `titanic`, `tips`, `iris` 등의 dataset을 활용하여 데이터 전처리, 시각화 실습  
     
     
-- SQL
+- __SQL__
   - 기간 : 2020.08.11 ~ 2020.08.14
   - `MySQL Workbench` 사용
   - Dataset `Employees`을 활용하여 Data Handling 실습
@@ -27,7 +27,7 @@
   - `ERD`를 활용하여 테이블간 시각화 실습  
     
     
-- Machine Learning & Deep Learning
+- __Machine Learning & Deep Learning__
   - 기간 : 2020.08.18 ~ 2020.08.28
   - `Google colab`, `BigQuery`, `github` 사용
   - ML의 기본적인 개념 학습
@@ -39,7 +39,7 @@
   - `LightGBM`으로 ML 학습과정 실습  
   
     
-- NLP 자연어 처리
+- __NLP 자연어 처리__
   - 기간 : 2020.08.29 ~ 2020.09.11
   - `jupyter notebook` 사용
   - 형태소 분석기 설치를 통한 토큰화 실습
