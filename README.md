@@ -8,6 +8,7 @@
     + 데이터 수집을 위한 다양한 라이브러리 활용 (`BeautifulSoup`, `Selenium`, `requests`, API 수집 등)
     + `titanic`, `tips`, `iris` 등의 dataset을 활용하여 데이터 전처리, 시각화 실습  
     
+    
   - SQL
     - `MySQL Workbench` 사용
     - Dataset `Employees`을 활용하여 Data Handling 실습
@@ -20,6 +21,7 @@
     ```
     - `ERD`를 활용하여 테이블간 시각화 실습  
     
+    
   - MachineLearning
     - `Google colab`, `BigQuery`, `github` 사용
     - ML의 기본적인 개념 학습
@@ -29,6 +31,7 @@
     - 선형회귀분석 기법으로 ML학습, K-fold를 활용해 RMSE, MSE 값의 변동 확인 및 실습
     - `K_fold`를 활용한 `RMSE`, `MSE` 값 조정 실습
     - `LightGBM`으로 ML 학습과정 실습  
+    
     
   - NLP - 자연어 처리
     - `jupyter notebook` 사용
