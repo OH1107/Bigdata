@@ -1,11 +1,11 @@
 # 아시아경제 청년취업아카데미 산업융합 빅데이터 전문가 과정
 ## 과정 소개
-- 기간 :  2020.07.27 ~ 2020.10.26
+- 기간 :  2020.07.27. ~ 2020.10.26.
 ![image](https://user-images.githubusercontent.com/67505208/93056365-48d34c80-f6a7-11ea-9b44-75af3ee03a6a.png)
 
 ## 교육 내용
 - __Python__
-  + 기간 : 2020.07.27 ~ 2020.08.10
+  + 기간 : 2020.07.27. ~ 2020.08.10.
   + `jupyter notebook` 사용
   + `Python` 기초 문법 학습
   + 데이터 분석을 위한 다양한 라이브러리 활용 (`pandas`, `numpy`, `matplotlib`, `seaborn` 등)
@@ -14,7 +14,7 @@
     
     
 - __SQL__
-  - 기간 : 2020.08.11 ~ 2020.08.14
+  - 기간 : 2020.08.11. ~ 2020.08.14.
   - `MySQL Workbench` 사용
   - Dataset `Employees`을 활용하여 Data Handling 실습
   - select 등 다양한 명령문 학습
@@ -28,7 +28,7 @@
     
     
 - __Machine Learning & Deep Learning__
-  - 기간 : 2020.08.18 ~ 2020.08.28
+  - 기간 : 2020.08.18. ~ 2020.08.28.
   - `Google colab`, `BigQuery`, `github` 사용
   - ML의 기본적인 개념 학습
   - ML을 학습을 위해 `sklearn`의 다양한 내장 함수 활용
@@ -40,7 +40,7 @@
   
     
 - __NLP 자연어 처리__
-  - 기간 : 2020.08.29 ~ 2020.09.11
+  - 기간 : 2020.08.29. ~ 2020.09.11.
   - `jupyter notebook` 사용
   - 형태소 분석기 설치를 통한 토큰화 실습
   - 단어표현실습 (BoW, TDM, TF_IDF)
