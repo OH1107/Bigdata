@@ -7,7 +7,11 @@
     + `titanic`, `tips`, `iris` 등의 dataset을 활용하여 데이터 전처리, 시각화 실습
   - SQL
     - `MySQL` 사용
-    - 대용량의 Dataset을 활용하여 Data Handling 실습
+    - 대용량의 Dataset(`Employees`)을 활용하여 Data Handling 실습
+      ```SQL
+      select * have 
+      join on
+      ```
   - MachineLearning
     - `Google colab`, `github` 사용
     - ML의 기본적인 개념 학습
