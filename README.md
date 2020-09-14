@@ -25,7 +25,7 @@
     - `Decision tree`, `Entropy Impurtiy`를 시각화를 통해 이해 및 실습
     - 로지스틱 회귀모형을 통해 수행되는 머신러닝 이해 및 실습
     - 선형회귀분석 기법으로 ML학습, K-fold를 활용해 RMSE, MSE 값의 변동 확인 및 실습
-    - K_fold를 활용한 RMSE, MSE 값 조정 실습
+    - `K_fold`를 활용한 `RMSE`, `MSE` 값 조정 실습
     - `LightGBM`으로 ML 학습과정 실습
   - NLP - 자연어 처리
     - `jupyter notebook` 사용
