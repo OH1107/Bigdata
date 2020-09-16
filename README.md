@@ -47,3 +47,9 @@
   - ML 학습을 통해 감정분석 미니 프로젝트(Navie Bayes)
   - DL 학습을 통해 감정분석 미니 프로젝트(tensorflow-RNN)
   - 토픽모델링(LDA, LSA)을 이용한 미니 프로젝트
+  
+- __Fintech__
+  - 기간 : 2020.09.14. ~
+  - `jupyter notebook`, `SQlite3` 사용
+  - 기업 주식 데이터 크롤링
+  - 주식 데이터 분석 (장단기 크로스 지점 파악)
