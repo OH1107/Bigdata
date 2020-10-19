@@ -18,6 +18,6 @@
 - select, while, table생성 복습
 - MySQL 내장함수(문자열, 수학, 시계열 등) 실습
 
-###4일차
+### 4일차
 - inner join, outer join, left join 등 실습
 - 중첩 join 실습
